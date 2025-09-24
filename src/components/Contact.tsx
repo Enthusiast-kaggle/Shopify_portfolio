@@ -27,9 +27,9 @@ const Contact: React.FC = () => {
     setSubmitStatus('idle');
 
     // EmailJS configuration
-    const serviceId = import.meta.env.VITE_EMAILJS_SERVICE_ID;
-    const templateId = import.meta.env.VITE_EMAILJS_TEMPLATE_ID;
-    const publicKey = import.meta.env.VITE_EMAILJS_PUBLIC_KEY;
+    const serviceId = 'service_746anrp';
+    const templateId = 'template_6f7vfac';
+    const publicKey = 'Pd0sRKU84mcmq5y3O';
 
     const templateParams = {
       from_name: formData.name,
