@@ -17,7 +17,7 @@ const Portfolio: React.FC = () => {
       name: 'Gadget Store',
       description: 'PASS:1 A modern tech store with a custom gadget configurator and seamless checkout experience.',
       image: 'https://i.pinimg.com/736x/45/86/5d/45865d2d0f6ea8b70e0bc5c4dfec5593.jpg',
-      liveUrl: 'gadgetoc.store',
+      liveUrl: 'https://gadgetoc.store/',
       category: 'Gadget'
     },
     {
@@ -25,7 +25,7 @@ const Portfolio: React.FC = () => {
       name: 'Kitchen Essentials',
       description: 'PASS:demo Kitchen store with custom product configurator, seamless checkout, and smart bundles.',
       image: 'https://s.tmimgcdn.com/scr/800x500/99900/kitchmall-kitchen-store-opencart-responsive-template_99912-2-original.jpg',
-      liveUrl: '#',
+      liveUrl: 'https://kitchenfull.shop/',
       category: 'Kitchen'
     },
     {
