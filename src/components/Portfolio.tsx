@@ -58,7 +58,7 @@ const Portfolio: React.FC = () => {
       name: 'Watch Marketplace',
       description: 'Watch store with custom dial configurator, strap options, and seamless checkout.',
       image: 'https://chrono-dial.myshopify.com/cdn/shop/files/slider2-bg.jpg?v=1621578873',
-      liveUrl: 'Watch store with custom dial configurator, strap options, and seamless checkout',
+      liveUrl: 'https://chrono-dial.myshopify.com/',
       category: 'Handmade'
     }
   ];
