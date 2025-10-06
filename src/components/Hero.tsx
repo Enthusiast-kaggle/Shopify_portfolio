@@ -55,11 +55,11 @@ const Hero: React.FC = () => {
                 className="group flex items-center gap-3 bg-white/10 backdrop-blur-sm px-6 py-3 rounded-full hover:bg-white/20 transition-all duration-200 border border-white/20"
               >
                 <div className="w-8 h-8 bg-white rounded-full flex items-center justify-center">
-                  <span className="text-[#691ead] font-bold text-sm">F</span>
+                  <span className="text-[#691ead] font-bold text-sm">SP</span>
                 </div>
                 <div className="text-left">
-                  <div className="text-white font-semibold text-sm">Flippa Sales</div>
-                  <div className="text-purple-200 text-xs">Verified Store Sales</div>
+                  <div className="text-white font-semibold text-sm">SideProjectors</div>
+                  <div className="text-purple-200 text-xs">Project Marketplace</div>
                 </div>
                 <svg className="w-4 h-4 text-purple-200 group-hover:translate-x-1 transition-transform duration-200" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14" />
@@ -73,11 +73,11 @@ const Hero: React.FC = () => {
                 className="group flex items-center gap-3 bg-white/10 backdrop-blur-sm px-6 py-3 rounded-full hover:bg-white/20 transition-all duration-200 border border-white/20"
               >
                 <div className="w-8 h-8 bg-white rounded-full flex items-center justify-center">
-                  <span className="text-[#691ead] font-bold text-sm">SP</span>
+                  <span className="text-[#691ead] font-bold text-sm">F</span>
                 </div>
                 <div className="text-left">
-                  <div className="text-white font-semibold text-sm">SideProjectors</div>
-                  <div className="text-purple-200 text-xs">Project Marketplace</div>
+                  <div className="text-white font-semibold text-sm">Flippa Sales</div>
+                  <div className="text-purple-200 text-xs">Verified Store Sales</div>
                 </div>
                 <svg className="w-4 h-4 text-purple-200 group-hover:translate-x-1 transition-transform duration-200" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14" />
