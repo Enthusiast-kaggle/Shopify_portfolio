@@ -5,7 +5,7 @@ const About: React.FC = () => {
   const stats = [
     { icon: Award, number: '50+', label: 'Stores Built' },
     { icon: Users, number: '100+', label: 'Happy Clients' },
-    { icon: Zap, number: '3+', label: 'Years Experience' }
+    { icon: Zap, number: '5+', label: 'Years Experience' }
   ];
 
   return (
