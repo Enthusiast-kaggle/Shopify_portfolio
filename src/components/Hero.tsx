@@ -49,7 +49,7 @@ const Hero: React.FC = () => {
             </p>
             <div className="flex flex-col sm:flex-row items-center justify-center gap-6 sm:gap-12">
               <a
-                href="https://flippa.com/users/4553847"
+                href="https://www.sideprojectors.com/user/profile/21217/projects"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="group flex items-center gap-3 bg-white/10 backdrop-blur-sm px-6 py-3 rounded-full hover:bg-white/20 transition-all duration-200 border border-white/20"
@@ -67,7 +67,7 @@ const Hero: React.FC = () => {
               </a>
 
               <a
-                href="https://www.sideprojectors.com/user/profile/21217/projects"
+                href="https://flippa.com/users/4553847"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="group flex items-center gap-3 bg-white/10 backdrop-blur-sm px-6 py-3 rounded-full hover:bg-white/20 transition-all duration-200 border border-white/20"
